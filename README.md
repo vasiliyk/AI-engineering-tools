@@ -7,7 +7,7 @@ tool name
 + URL
 
 ## General open-ended discussions
-ChatGPT
+ChatGPT (SaaS)
 + Answering questions and providing human-like explanations. It supports text, audio, image, video and generates any combination of text, audio, and image outputs. [macOS](https://openai.com/chatgpt/download/), android/iOS clients are available. API can be used for integrations.
   + Free: feature/performance/usage limits, and API usage restrictions.
   + Paid: https://openai.com/chatgpt/pricing
@@ -15,21 +15,21 @@ ChatGPT
 + https://openai.com/chatgpt/
 
 ## Code Development
-Codeium 
-+ Code generation for most popular languages. Supports most of modern IDEs. Deployment mode: SaaS, on-prem, in-VPC. On commercial liceses supports 'User / Enterprise level personalization at the model level'.
+Codeium (SaaS, VPC, on-prem)
++ Code generation for most popular languages. Supports most of modern IDEs. Deployment mode: SaaS, on-prem, in-VPC. On commercial licenses supports 'User / Enterprise level personalization at the model level'.
   + Free: free personal license
   + Paid: Business - $12/month up to 200, Enterprise - negotiable.
 + https://codeium.com/
   
 Github Copilot (SaaS)
-+ Code generation for most popular languages. Supports VSCode, JetBrains, Vim / Neovim, Visual Studio IDEs. Delayed support for new versions of libraries/fraimworks.
++ Code generation for most popular languages. Supports VSCode, JetBrains, Vim / Neovim, Visual Studio IDEs. Delayed support for new versions of libraries/frameworks.
   + Free: No free
   + Paid: Personal - $10/month, Business - $19/month, Enterprise - $39/month (allows to customize GitHub Copilot to your organization and infuse AI across the developer workflow)
 + Microsoft, Stripe, Shopify, IBM, Spotify, Lyft, Coca-cola, Duolingo, Merceds-Benz, Fidelity, Dell, Lemonade, 
 + https://openai.com/chatgpt/
 
 ## Search engine alternatives
-Perplexity
+Perplexity (SaaS)
 + AI-powered search platform that provides real-time answers with multiple references
   + Free: free usage without without image uploading. GPT-3.5 model only, no API.
   + Commercial: Business - $20/month per user, Enterpise - SOC2 certification, SSO support
