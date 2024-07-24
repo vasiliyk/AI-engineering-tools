@@ -33,7 +33,7 @@ Github Copilot (SaaS)
   + Free: No free usage
   + Paid: Personal - $10/month, Business - $19/month, Enterprise - $39/month (allows to customize GitHub Copilot to your organization and infuse AI across the developer workflow)
 + Microsoft, Stripe, Shopify, IBM, Spotify, Lyft, Coca-cola, Duolingo, Merceds-Benz, Fidelity, Dell, Lemonade, 
-+ https://openai.com/chatgpt/
++ https://github.com/features/copilot
 
 ## Search engine alternatives
 Perplexity (SaaS)
