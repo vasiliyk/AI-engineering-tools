@@ -8,7 +8,7 @@ tool name
 
 ## General open-ended discussions
 Jan.ai
-+ Running LLMs locally (using GPU if avaiable), local API server (OpenAI compatible), UI for local and remote models (desktop app UI for OpenAI ChatGPT)
++ Running LLMs locally (using GPU if available), local API server (OpenAI compatible), UI for local and remote models (desktop app UI for OpenAI ChatGPT)
   + Free: open-source tool
 + none
 + https://jan.ai/
