@@ -24,7 +24,7 @@ ChatGPT (SaaS with desktop and mobile clients)
 Codeium (SaaS, VPC, on-prem)
 + Code generation for most popular languages. Supports most of modern IDEs. Deployment mode: SaaS, on-prem, in-VPC. On commercial licenses supports 'User / Enterprise level personalization at the model level'.
   + Free: free personal license
-  + Paid: Business - $12/month up to 200, Enterprise - negotiable.
+  + Paid: https://codeium.com/pricing
 + none
 + https://codeium.com/
 
