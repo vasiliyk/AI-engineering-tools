@@ -6,8 +6,8 @@ tool name
 + key known customers
 + URL
 
-## Running local models 
-Jan.ai 
+## Running models 
+Jan.ai (desktop client)
 + Running LLMs locally (using GPU if available), local API server (OpenAI compatible), UI for local and remote models (desktop app UI for OpenAI ChatGPT)
   + Free: open-source tool
 + none
