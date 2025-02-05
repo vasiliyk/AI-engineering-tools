@@ -6,8 +6,8 @@ tool name
 + key known customers
 + URL
 
-## General open-ended discussions
-Jan.ai
+## Running local models 
+Jan.ai 
 + Running LLMs locally (using GPU if available), local API server (OpenAI compatible), UI for local and remote models (desktop app UI for OpenAI ChatGPT)
   + Free: open-source tool
 + none
@@ -45,5 +45,13 @@ Perplexity (SaaS)
 
 
 ## Testing
+Shortest 
++ End-to-End test built on browser automation (Playwright[https://playwright.dev/]) defined in plain text.
+  + MIT license 
++ none 
+https://shortest.com/
+
+
 ## Requirements
+
 ## Architecture
