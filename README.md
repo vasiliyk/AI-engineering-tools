@@ -32,7 +32,7 @@ AIcommits
 + CLI interface tool that generates commit message based on commit code.
   + MIT license
 + none      
-https://github.com/Nutlope/aicommits
++ https://github.com/Nutlope/aicommits
 
   
 ## Testing
@@ -40,9 +40,9 @@ Shortest
 + End-to-End test built on browser automation ([Playwright](https://playwright.dev/)) defined in plain text.
   + MIT license 
 + none 
-https://shortest.com/
++ https://shortest.com/
 
 AutoDoc
 + Penetration testing tool based on LLM, can use OpenAI models  
   + MIT license
-https://github.com/GreyDGL/PentestGPT
++ https://github.com/GreyDGL/PentestGPT
