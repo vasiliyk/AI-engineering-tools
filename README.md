@@ -13,7 +13,7 @@ Jan.ai
 + none
 + https://jan.ai/
 
-ChatGPT (SaaS)
+ChatGPT (SaaS with desktop and mobile clients)
 + Answering questions and providing human-like explanations. It supports text, audio, image, video and generates any combination of text, audio, and image outputs. [macOS](https://openai.com/chatgpt/download/), android/iOS clients are available. API can be used for integrations.
   + Free: feature/performance/usage limits, and API usage restrictions.
   + Paid: https://openai.com/chatgpt/pricing
@@ -27,31 +27,22 @@ Codeium (SaaS, VPC, on-prem)
   + Paid: Business - $12/month up to 200, Enterprise - negotiable.
 + none
 + https://codeium.com/
+
+AIcommits
++ CLI interface tool that generates commit message based on commit code.
+  + MIT license
++ none      
+https://github.com/Nutlope/aicommits
+
   
-Github Copilot (SaaS)
-+ Code generation for most popular languages. Supports VSCode, JetBrains, Vim / Neovim, Visual Studio IDEs. Delayed support for new versions of libraries/frameworks.
-  + Free: No free usage
-  + Paid: Personal - $10/month, Business - $19/month, Enterprise - $39/month (allows to customize GitHub Copilot to your organization and infuse AI across the developer workflow)
-+ Microsoft, Stripe, Shopify, IBM, Spotify, Lyft, Coca-cola, Duolingo, Merceds-Benz, Fidelity, Dell, Lemonade, 
-+ https://github.com/features/copilot
-
-## Search engine alternatives
-Perplexity (SaaS)
-+ AI-powered search platform that provides real-time answers with multiple references
-  + Free: free usage without without image uploading. GPT-3.5 model only, no API.
-  + Commercial: Business - $20/month per user, Enterpise - SOC2 certification, SSO support
-+ none
-+ https://www.perplexity.a
-
-
 ## Testing
 Shortest 
-+ End-to-End test built on browser automation (Playwright[https://playwright.dev/]) defined in plain text.
++ End-to-End test built on browser automation ([Playwright](https://playwright.dev/)) defined in plain text.
   + MIT license 
 + none 
 https://shortest.com/
 
-
-## Requirements
-
-## Architecture
+AutoDoc
++ Penetration testing tool based on LLM, can use OpenAI models  
+  + MIT license
+https://github.com/GreyDGL/PentestGPT
